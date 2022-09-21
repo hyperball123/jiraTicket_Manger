@@ -1,0 +1,6 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 30px; */
+    background-color: blue;
+}
